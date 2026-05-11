@@ -79,8 +79,7 @@ PLOTTING THE DATA:
 <img width="1050" height="292" alt="image" src="https://github.com/user-attachments/assets/5ccda3d0-a4af-42a0-a674-c98f7396b53d" />
 
 SEASONAL PLOT REPRESENTATION :
-<img width="1023" height="317" alt="image" src="https://github.com/user-attachments/assets/a4d6b549-b19f-4e52-83b3-fc1f519f99d7" />
-
+<img width="1016" height="313" alt="image" src="https://github.com/user-attachments/assets/231179cc-8f5f-4897-9035-198626ffbe3d" />
 
 
 TREND PLOT REPRESENTATION :
